@@ -1,0 +1,13 @@
+{
+    "ModTitle": "Guilds Cure Poison",
+    "ModVersion": "0.1",
+    "ModAuthor": "Flyn San",
+    "ContactInfo": "flynsarmy@gmail.com",
+    "DFUnity_Version": "0.11.0",
+    "ModDescription": "Adds a 'Cure Poison' option to all guild merchants with 'Cure Disease'",
+    "GUID": "d3c94a03-1107-4d0e-bca2-89771f1eee08",
+    "Files": [
+        "Assets/Game/Mods/GuildsCurePoison/GuildsCurePoison.cs",
+        "Assets/Game/Mods/GuildsCurePoison/FlynsarmyGuildServicePopupWindow.cs"
+    ]
+}
